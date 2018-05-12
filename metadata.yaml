@@ -1,0 +1,26 @@
+_repo: Rules-and-regulations-governing-maternity-hospitals-and-homes-...-September-1922_27528
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: California. State Board of Charities and Corrections
+    gutenberg_agent_id: '32745'
+    url: http://www.gutenberg.org/2009/agents/32745
+description: ''
+gutenberg_issued: '2008-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'Hospitals -- Maternity services'
+- !lcsh 'Women''s hospitals'
+title: Rules and regulations governing maternity hospitals and homes ... September,
+  1922
+url: http://www.gutenberg.org/ebooks/27528
